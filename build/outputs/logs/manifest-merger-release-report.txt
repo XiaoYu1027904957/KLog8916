@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:2:11-36
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+		ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+		ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:1-4:12
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml:3:22-64
+uses-sdk
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+		ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+		ADDED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml
+		INJECTED from D:\ElectricCode\MonitorDaemon8916\klog1.5\src\main\AndroidManifest.xml

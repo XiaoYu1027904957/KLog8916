@@ -1,0 +1,2 @@
+com.senter.klog
+string app_name
